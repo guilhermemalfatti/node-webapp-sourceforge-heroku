@@ -13,8 +13,17 @@ The easiest way to deploy this is to push the button:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+# Usage
+> /contacts
 
-##Resources:
+This GET retrieve the contacts stored in postgressSQL that was sync with sourceForce.
+
+example:
+    https://<yourHerokuApp>.herokuapp.com/contacts
+
+    
+
+## Resources:
  - https://devcenter.heroku.com/articles/getting-started-with-heroku-and-connect-without-local-dev#next-steps
  - Google
  - Developerforce.com
