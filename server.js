@@ -7,6 +7,11 @@ app.get('/', function(req, res) {
     res.render('pages/index');
 });
 
+app.get('/contacts', function(req, res) {    
+    res.render('pages/contacts');
+});
+
+
 var port = process.env.PORT || 8080;
 app.listen(port);
 
