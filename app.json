@@ -1,0 +1,7 @@
+{
+    "name": "Heroku + sourge force data display",
+    "description": "A basic web app using heroku + sourceForge",
+    "repository": "na",
+    "success_url": "/",
+    "addons": ["heroku-postgresql", "herokuconnect:demo"]
+}
