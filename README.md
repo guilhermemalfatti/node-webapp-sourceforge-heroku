@@ -19,8 +19,9 @@ The easiest way to deploy this is to push the button:
 This GET retrieve the contacts stored in postgressSQL that was sync with sourceForce.
 
 example:
-    https://<yourHerokuApp>.herokuapp.com/contacts
+    https://\<yourHerokuApp\>.herokuapp.com/contacts
 
+![alt text](https://github.com/guilhermemalfatti/node-webapp-sourceforge-heroku/blob/master/images/contacts.PNG)
     
 
 ## Resources:
